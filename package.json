@@ -1,6 +1,6 @@
 {
   "name": "satismeter-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Asynchronously load satismeter with an npm module",
   "repository": {
     "type": "git",
