@@ -6,7 +6,6 @@
     "type": "git",
     "url": "git@github.com:satismeter/satismeter-loader.git"
   },
-  "readme": "README.md",
   "main": "index.js",
   "scripts": {},
   "keywords": [
